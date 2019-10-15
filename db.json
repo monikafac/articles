@@ -1,0 +1,15 @@
+{
+    "articles":[
+        {
+            "id":1,
+            "title":"Czym jest samochód",
+            "text": "ZA WIKIPEDIĄ : Słowo samochód utrwaliło się w języku polskim jeszcze w czasach II Rzeczypospolitej, kiedy to zostało wybrane, w drodze konkursu, na słowo określające automobil. Termin samochód pochodzi od słów sam i chód, a więc określa pojazd samodzielnie się poruszający, czyli z własnym napędem. Spośród innych, branych pod uwagę słów, można wspomnieć określenie samojedź."
+        },
+        {
+            "id":1,
+            "title":"Czym jest paliwo",
+            "text": "substancja wydzielająca przy intensywnym utlenianiu (spalaniu) duże ilości ciepła. Energia uzyskana ze spalania paliwa wykorzystywana jest:"
+
+        }
+    ]
+}
