@@ -3,12 +3,12 @@
         {
             "id":0,
             "title":"Czym jest samochód",
-            "text": "ZA WIKIPEDIĄ : Słowo samochód utrwaliło się w języku polskim jeszcze w czasach II Rzeczypospolitej, kiedy to zostało wybrane, w drodze konkursu, na słowo określające automobil. Termin samochód pochodzi od słów sam i chód, a więc określa pojazd samodzielnie się poruszający, czyli z własnym napędem. Spośród innych, branych pod uwagę słów, można wspomnieć określenie samojedź."
+            "text": "ZA WIKIPEDIĄ : Słowo samochód utrwaliło się w języku polskim jeszcze w czasach II Rzeczypospolitej, kiedy to zostało wybrane, w drodze konkursu, na słowo określające automobil. Termin samochód pochodzi od słów sam i chód, a więc określa pojazd samodzielnie się poruszający, czyli z własnym napędem."
         },
         {
             "id":1,
             "title":" TYTUŁ 2",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum elit ac tortor mollis, in fringilla mi fermentum. Quisque vehicula, nunc non ultrices pretium, velit purus porttitor purus, eget aliquam tortor eros vitae justo."
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum elit ac tortor mollis, in fringilla mi fermentum. Quisque vehicula, nunc non ultrices pretium, velit purus porttitor purus."
         },
         {
             "id":2,
@@ -23,7 +23,7 @@
         {
             "id":5,
             "title":"TYTUŁ 5",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum elit ac tortor mollis, in fringilla mi fermentum. Quisque vehicula, nunc non ultrices pretium, velit purus porttitor purus, eget aliquam tortor eros vitae justo."
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum elit ac tortor mollis, in fringilla mi fermentum. Quisque vehicula, nunc non ultrices pretium, velit purus porttitor purus, eget aliquam."
         },
         {
             "id":6,
@@ -33,7 +33,7 @@
         {
             "id":7,
             "title":"TYTUŁ 7",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum elit ac tortor mollis, in fringilla mi fermentum. Quisque vehicula, nunc non ultrices pretium, velit purus porttitor purus, eget aliquam tortor eros vitae justo."
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum elit ac tortor mollis, in fringilla mi fermentum. Quisque vehicula, nunc non ultrices pretium, velit purus porttitor purus."
         },
         {
             "id":8,
