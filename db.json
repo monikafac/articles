@@ -2,12 +2,12 @@
     "articles":[
         {
             "id":0,
-            "title":"Czym jest samochód",
-            "text": "ZA WIKIPEDIĄ : Słowo samochód utrwaliło się w języku polskim jeszcze w czasach II Rzeczypospolitej, kiedy to zostało wybrane, w drodze konkursu, na słowo określające automobil. Termin samochód pochodzi od słów sam i chód."
+            "title":"TYTUŁ 1",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum elit ac tortor e vehicula, nunc non ultrices pretium, velit purus porttitor purus."
         },
         {
             "id":1,
-            "title":" TYTUŁ 2",
+            "title":"TYTUŁ 2",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum elit ac tortor mollis, in fringilla mi fermentum. Quisque vehicula, nunc non ultrices pretium, velit purus porttitor purus."
         },
         {
